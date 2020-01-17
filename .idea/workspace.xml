@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ba47408-626f-4704-8a02-d5f799d99f14" name="Default Changelist" comment="" />
+    <list default="true" id="0ba47408-626f-4704-8a02-d5f799d99f14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="107" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WTk8ou5kscBCyi1Xt2jAuVjuFf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.java.networking.Main" />
       <module name="EchoClient" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -56,9 +68,63 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1092" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579191800725">
+      <screen x="-1600" y="-52" width="1600" height="860" />
+    </state>
+    <state x="-1092" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860/-1600.-52.1600.860@-1600.-52.1600.860" timestamp="1579191800725" />
+    <state width="825" height="152" key="GridCell.Tab.0.bottom" timestamp="1579263765634">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="825" height="152" key="GridCell.Tab.0.bottom/0.0.1440.860/-1600.-52.1600.860@-1600.-52.1600.860" timestamp="1579192575935" />
+    <state width="825" height="152" key="GridCell.Tab.0.bottom/0.0.1440.860/-1600.-52.1600.860@0.0.1440.860" timestamp="1579263765634" />
+    <state width="825" height="152" key="GridCell.Tab.0.center" timestamp="1579263765634">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="825" height="152" key="GridCell.Tab.0.center/0.0.1440.860/-1600.-52.1600.860@-1600.-52.1600.860" timestamp="1579192575934" />
+    <state width="825" height="152" key="GridCell.Tab.0.center/0.0.1440.860/-1600.-52.1600.860@0.0.1440.860" timestamp="1579263765634" />
+    <state width="825" height="152" key="GridCell.Tab.0.left" timestamp="1579263765634">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="825" height="152" key="GridCell.Tab.0.left/0.0.1440.860/-1600.-52.1600.860@-1600.-52.1600.860" timestamp="1579192575934" />
+    <state width="825" height="152" key="GridCell.Tab.0.left/0.0.1440.860/-1600.-52.1600.860@0.0.1440.860" timestamp="1579263765634" />
+    <state width="825" height="152" key="GridCell.Tab.0.right" timestamp="1579263765634">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="825" height="152" key="GridCell.Tab.0.right/0.0.1440.860/-1600.-52.1600.860@-1600.-52.1600.860" timestamp="1579192575934" />
+    <state width="825" height="152" key="GridCell.Tab.0.right/0.0.1440.860/-1600.-52.1600.860@0.0.1440.860" timestamp="1579263765634" />
+    <state width="1003" height="256" key="GridCell.Tab.1.bottom" timestamp="1579190728886">
+      <screen x="-1600" y="-52" width="1600" height="860" />
+    </state>
+    <state width="1003" height="256" key="GridCell.Tab.1.bottom/0.0.1440.860/-1600.-52.1600.860@-1600.-52.1600.860" timestamp="1579190728886" />
+    <state width="1003" height="256" key="GridCell.Tab.1.center" timestamp="1579190728886">
+      <screen x="-1600" y="-52" width="1600" height="860" />
+    </state>
+    <state width="1003" height="256" key="GridCell.Tab.1.center/0.0.1440.860/-1600.-52.1600.860@-1600.-52.1600.860" timestamp="1579190728886" />
+    <state width="1003" height="256" key="GridCell.Tab.1.left" timestamp="1579190728886">
+      <screen x="-1600" y="-52" width="1600" height="860" />
+    </state>
+    <state width="1003" height="256" key="GridCell.Tab.1.left/0.0.1440.860/-1600.-52.1600.860@-1600.-52.1600.860" timestamp="1579190728886" />
+    <state width="1003" height="256" key="GridCell.Tab.1.right" timestamp="1579190728886">
+      <screen x="-1600" y="-52" width="1600" height="860" />
+    </state>
+    <state width="1003" height="256" key="GridCell.Tab.1.right/0.0.1440.860/-1600.-52.1600.860@-1600.-52.1600.860" timestamp="1579190728886" />
     <state x="-1093" y="19" width="586" height="717" key="find.popup" timestamp="1579180907961">
       <screen x="-1600" y="-52" width="1600" height="860" />
     </state>
     <state x="-1093" y="19" width="586" height="717" key="find.popup/0.0.1440.860/-1600.-52.1600.860@-1600.-52.1600.860" timestamp="1579180907961" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/java/networking/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EchoClient$Main.ic" NAME="Main Coverage Results" MODIFIED="1579191539207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
